@@ -1094,7 +1094,7 @@ b: Donc si parce que je suis "juste un tas de neuro-transmetteurs" *je suis* irr
 
 `bb({body:"two_up", eyes:"shock"});`
 
-b: Et si on *tous les deux* irrationnels, alors on n'arrivera *jamais* à trouver comment être entier·ère et heureux·se !
+b: Et si on est *tous les deux* irrationnels, alors on n'arrivera *jamais* à trouver comment être entier·ère et heureux·se !
 
 `bb({body:"scream_a_1"})`
 
@@ -1218,7 +1218,7 @@ publish("act2",["party_hunter",2]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: On dirait que tu es pris dans une bataille avec toi-même, petit.
+r: On dirait que tu es pris dans une bataille avec toi-même, petit·e.
 
 ```
 publish("act2",["party_hunter",3]);
@@ -1232,7 +1232,7 @@ publish("act2",["party_hunter",4]);
 publish("act2",["party_hong",14]);
 ```
 
-r: Tu étais en train de, euh, marmonner dans ton sweat à propos {{_.a2_hoodie_callback}} ou quelque chose.
+r: Tu étais en train de, euh, marmonner dans ton sweat à propos {{_.a2_hoodie_callback}} de quelque chose.
 
 ```
 publish("act2",["party_hunter",13]);
